@@ -1,4 +1,4 @@
-let todo= [];
+let todo=[];
 let request=prompt("please enter your request");
 while(true){
     if(request=="quit"){
